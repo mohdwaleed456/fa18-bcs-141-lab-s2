@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(176, 223, 180);
+}
+
+.buttons{
+    display: block;
+    margin: 0 auto;
+    width: max-content;;
+  }
+  
+.buttonNo1{
+    font-size: 25px;
+    border-color: royalblue;
+    color: darkblue;
+    background-color: steelblue;
+   
+}
+
+.buttonNo2{
+    font-size: 25px;
+    border-color: palevioletred;
+    color: darkviolet;
+    background-color: plum;
+}
+
